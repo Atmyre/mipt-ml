@@ -1,0 +1,75 @@
+Pointers
+------------
+0x7fbea9b9d5a3
+0x7fbea8675fb0
+0x7fbea96622c2
+0x7fbea967d06d
+0x7fbea9e24781
+Raw
+------------
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7fbea9b9d5a3]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7fbea8675fb0]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7fbea96622c2]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7fbea967d06d]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7fbea9e24781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7fbea9b9d5a3
+0x7fbea8675fb0
+0x7fbea96622c2
+0x7fbea967d06d
+0x7fbea9e24781
+Raw
+------------
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7fbea9b9d5a3]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7fbea8675fb0]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7fbea96622c2]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7fbea967d06d]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7fbea9e24781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7fbea9b9d5a3
+0x7fbea8675fb0
+0x7fbea96622c2
+0x7fbea967d06d
+0x7fbea9e24781
+Raw
+------------
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7fbea9b9d5a3]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7fbea8675fb0]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7fbea96622c2]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7fbea967d06d]
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7fbea9e24781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tatiana/Documents/ML/Kaggle/Graphs/graphlab/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+

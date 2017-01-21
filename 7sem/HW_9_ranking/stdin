@@ -1,0 +1,21 @@
+
+[+] General Parameters:
+Training data:	./data/train.txt
+Test data:	./data/test.txt
+Validation data:	./data/valid.txt
+Feature vector representation: Dense.
+Ranking method:	LambdaMART
+Feature description file:	Unspecified. All features will be used.
+Train metric:	NDCG@10
+Test metric:	NDCG@10
+Feature normalization: No
+Model file: ./model/LambdaMART_100_5.txt
+
+[+] LambdaMART's Parameters:
+No. of trees: 100
+No. of leaves: 5
+No. of threshold candidates: 256
+Learning rate: 0.1
+Stop early: 100 rounds without performance gain on validation data
+
+Reading feature file [./data/train.txt]: 0... Error in DataPoint::parse(): java.lang.NumberFormatException: For input string: "1:0.0"
